@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in Computer Vision and Machine Learning at Department of Electrical and Electronic Engineering and [I-X](https://ix.imperial.ac.uk/), Imperial College London. Previously, I was a Lecturer at School of Engineering, University of Edinburgh from July 2020 to September 2022. I obtained my Ph.D. in Computing Research from Imperial College London in January 2020, and M.Sc. in Control Science and Engineering from Department of Automation, Tsinghua University in July 2015. Before moving to University of Edinburgh, I have worked as a post-doctoral research associate at Department of Computing, Imperial College London, where I have worked on deep learning-based MRI reconstruction, image registration and segmentation. Our pioneering work on convolutional recurrent neural networks for MRI reconstruction has been highly and widely recognised by international leading groups from both academia and industry. Overall, we have published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings. I have also served as an area chair for MICCAI 2022-24 and a member of organising and programme committee at several international workshops, e.g., CMRxRecon 2023/24 and UNSURE 2022-24.
+I am an Assistant Professor in Computer Vision and Machine Learning at Department of Electrical and Electronic Engineering and [I-X](https://ix.imperial.ac.uk/), Imperial College London. Previously, I was a Lecturer at School of Engineering, University of Edinburgh from July 2020 to September 2022. I obtained my Ph.D. in Computing Research from Imperial College London in January 2020, and M.Sc. in Control Science and Engineering from Department of Automation, Tsinghua University in July 2015. Before moving to University of Edinburgh, I have worked as a post-doctoral research associate at Department of Computing, Imperial College London, where I have worked on deep learning-based MRI reconstruction, image registration and segmentation. Our pioneering work on convolutional recurrent neural networks for MRI reconstruction has been highly and widely recognised by international leading groups from both academia and industry. Overall, we have published more than 70 papers in top-tier peer-reviewed engineering and medical imaging journals and conference proceedings. I have also served as an area chair for MICCAI 2022-24 and a member of organising and programme committee at several international workshops, e.g., CMRxRecon 2023/24 and UNSURE 2022-24.
 
 Research Interest
 ------
@@ -22,10 +22,12 @@ Opening
 ------
 I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested.
 
-I am looking for a PhD student working on multimodal representation learning in biological data. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
+\[Closed\] I am looking for a PhD student working on multimodal representation learning in biological data. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
 
 News
 ------
+\[03/2025\] One paper on [Semi-supervised Tabular-Image Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Du_STiL_Semi-supervised_Tabular-Image_Learning_for_Comprehensive_Task-Relevant_Information_Exploration_in_CVPR_2025_paper.html) accepted at CVPR 2025\
+\[02/2025\] One paper on [Ground-truth Flow Matching for Unsupervised Accelerated MRI Reconstruction](https://arxiv.org/abs/2502.17174) accepted at IPMI 2025\
 \[07/2024\] One paper on [tabular-image pretraining](https://arxiv.org/abs/2407.07582) accepted at ECCV 2024\
 \[07/2024\] Two papers accepted at MICCAI 2024 workshops\
 \[05/2024\] **Call for participation** for our MICCAI challenge on "[CMRxRecon2024](https://cmrxrecon.github.io/2024/Home.html)" to be held in conjunction with MICCAI 2024\
