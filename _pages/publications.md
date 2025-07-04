@@ -12,7 +12,7 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications
 ------
-<img align="left" width="300" src="/images/STiL.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/STiLpng.png" style="margin-right: 15px" /> 
 
 **STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification**\
 Siyi Du, Xinzhe Luo, Declan O'Regan, **Chen Qin**\
