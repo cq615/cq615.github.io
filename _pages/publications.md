@@ -12,7 +12,7 @@ For a full list of our publications, please refer to my [Google Scholar profile]
 
 Selected Publications
 ------
-<img align="left" width="300" src="/images/STiL.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/STiL.pdf" style="margin-right: 15px" /> 
 
 **STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification**\
 Siyi Du, Xinzhe Luo, Declan O'Regan, **Chen Qin**\
@@ -23,7 +23,7 @@ The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 **Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching**\
 Xinzhe Luo, Yingzhen Li, **Chen Qin**\
-International Conference on Information Processing in Medical Imaging (IPMI), 2025. <br />
+International Conference on Information Processing in Medical Imaging, 2025. <br />
 <br />
 
 <img align="left" width="300" src="/images/TIP.png" style="margin-right: 15px" /> 
