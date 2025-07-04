@@ -27,7 +27,7 @@ I am looking for highly motivated PhD students to work on machine learning for m
 News
 ------
 \[03/2025\] One paper on [Semi-supervised Tabular-Image Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Du_STiL_Semi-supervised_Tabular-Image_Learning_for_Comprehensive_Task-Relevant_Information_Exploration_in_CVPR_2025_paper.html) accepted at CVPR 2025\
-\[02/2025\] One paper on [Ground-truth Flow Matching for Unsupervised Accelerated MRI Reconstruction](https://arxiv.org/abs/2502.17174) accepted at IPMI 2025\
+\[02/2025\] One paper on [Unsupervised Accelerated MRI Reconstruction via Ground-truth-free Flow Matching](https://arxiv.org/abs/2502.17174) accepted at IPMI 2025\
 \[07/2024\] One paper on [tabular-image pretraining](https://arxiv.org/abs/2407.07582) accepted at ECCV 2024\
 \[07/2024\] Two papers accepted at MICCAI 2024 workshops\
 \[05/2024\] **Call for participation** for our MICCAI challenge on "[CMRxRecon2024](https://cmrxrecon.github.io/2024/Home.html)" to be held in conjunction with MICCAI 2024\
