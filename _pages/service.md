@@ -11,7 +11,8 @@ Program Committee & Area Chair
 ------
 - Area Chair, MICCAI 2022 & 2023 & 2024
 - Organisation Committee, MICCAI workshop on Uncertainty for Safe Utilization of Machine Learning in Medical Imaging ([UNSURE](https://unsuremiccai.github.io/)), 2022 & 2023 & 2024
-- Organisation Committee, MICCAI challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023 & 2024
+- Organisation Committee, MICCAI challenge on Cardiac MRI Reconstruction (CMRxRecon), 2023 & 2024 & 2025
+- Organisation Committee, MICCAI workshop on Reconstruction and Imaging Motion Estimation ([RIME](https://rime-miccai25.github.io/)), 2025
 - Organisation Committee, MICCAI workshop on Distributed, Collaborative and Federated Learning ([DeCaF](https://decaf-workshop.github.io/decaf-2022/)), 2022 & 2023
 - Organisation Committee, MICCAI challenge on Extreme Cardiac MRI Analysis Challenge under Respiratory Motion ([CMRxMotion](http://cmr.miccai.cloud/)), 2022
 - Organisation Committee, MICCAI workshop on Machine Learning for Medical Image Reconstruction ([MLMIR](https://sites.google.com/view/mlmir2022)), 2022
