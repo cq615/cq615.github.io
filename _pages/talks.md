@@ -25,12 +25,12 @@ author_profile: true
 - **Deep CMR: Getting it to Work**\
    at ISMRM Member-initiated Tutorials on The Cardiac MRI Rodeo: Taming AI for Clinical Practice, Toronto, Canada, June 2023
   
-- **Deep Learning Meets Medical Imaging: From Signal to Clinically Useful Information**\
-   at Statistics Seminars, School of Mathematics, University of Bristol, UK (Online), March 2023\
-   at TCIN Imaging Interest Group, Trinity College Dublin, Ireland (Online), Nov 2021\
-   at Data Science and Computational Statistics Seminar, University of Birmingham, UK (Online), Nov 2021\
-   at UCL Centre for Medical Image Computing (CMIC) Machine Learning Club, UK (Online), Oct 2021\
-   at Beijing National Research Center for Information Science and Technology, Tsinghua University, China, May 2021
+#- **Deep Learning Meets Medical Imaging: From Signal to Clinically Useful Information**\
+#   at Statistics Seminars, School of Mathematics, University of Bristol, UK (Online), March 2023\
+#   at TCIN Imaging Interest Group, Trinity College Dublin, Ireland (Online), Nov 2021\
+#   at Data Science and Computational Statistics Seminar, University of Birmingham, UK (Online), Nov 2021\
+#   at UCL Centre for Medical Image Computing (CMIC) Machine Learning Club, UK (Online), Oct 2021\
+#   at Beijing National Research Center for Information Science and Technology, Tsinghua University, China, May 2021
    
 - **The End of Drawing Circles - Automatic Segmentation**\
    at SCMR Annual Scientific Sessions, San Diego, California, USA, Jan 2023
