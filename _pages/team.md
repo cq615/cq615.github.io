@@ -41,7 +41,7 @@ Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from 
 Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
 <br /><br /> <br /> 
 
-<img align="left" width="200" src="/images/Justin.jpg" style="margin-right: 15px" /> 
+<img align="left" width="200" src="/images/Justin.PNG" style="margin-right: 15px" /> 
 
 **Justin Wang**, PhD Student (2025 - )\
 Justin Wang received his MPhil degree in Advanced Computer Science from the University of Cambridge in 2025. He previously earned his Bachelor’s degree in Computer Science from the University of California, Berkeley in 2022 and worked as a web software engineer. His research focuses on developing effective feature extraction methods to analyze and model the relationship between cell painting images and chemical perturbations. <br />
