@@ -9,10 +9,6 @@ author_profile: true
 
 Post-docs
 ------
-<img align="left" width="200" src="/images/TFletcher.jpeg" style="margin-right: 15px" /> 
-**Dr Thomas Fletcher**, Postdoctoral Researcher (2024 - )\
-Prior to joining the group, Tom was previously a postdoctoral researcher at King's College London from 2020-2024. He worked on using machine learning for reconstruction of highly undersampled cardiac MRI. Tom obtained his PhD in Astrophysics from UCL in 2020, and received an MSc in Astrophysics and MSci in Physics from UCL and Imperial respectively. He has also worked as a Research Scientist at the National Physical Laboratory. Tom's research interests include machine learning for inverse problems, motion correction and highly undersampled reconstruction in MRI. He will be working on motion-robust and efficient fMRI.<br />
-<br />
 
 <img align="left" width="200" src="/images/Xinzhe.jpg" style="margin-right: 15px" /> 
 **Dr Xinzhe Luo**, Postdoctoral Researcher (2024 - )\
@@ -39,20 +35,30 @@ Yinsong Wang received his MSc degree in Signal Processing and Communications fro
 Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
 <br /><br /> <br /> 
 
+<img align="left" width="200" src="/images/Siyi.jpg" style="margin-right: 15px" /> 
+
+**[Siyi Du](https://siyi-wind.github.io/)**, PhD Student (2023 - )\
+Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
+<br /><br /> <br /> 
+
+<img align="left" width="200" src="/images/Justin.jpg" style="margin-right: 15px" /> 
+
+**Justin Wang**, PhD Student (2025 - )\
+Justin Wang received his MPhil degree in Advanced Computer Science from the University of Cambridge in 2025. He previously earned his Bachelor’s degree in Computer Science from the University of California, Berkeley in 2022 and worked as a web software engineer. His research focuses on developing effective feature extraction methods to analyze and model the relationship between cell painting images and chemical perturbations. <br />
+<br /><br /> <br /> 
+
+<img align="left" width="200" src="/images/Yirui.jpg" style="margin-right: 15px" /> 
+
+**Yirui Chen**, PhD Student (2025 - )\
+Yirui Chen received his M.Eng. degree in Electronic Information Engineering from Shanghai Jiao Tong University in 2025, and his B.Eng. degree in Automation from Northwestern Polytechnical University in 2022. His research focuses on multimodal representation learning. He aims to develop robust AI models for integrating molecular and morphological information in high-content imaging, with applications to phenotypic drug discovery and biomedical data analysis. <br />
+<br /><br /> <br /> 
+
 MRes Students
 ------
 <img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
 
 **Mary-Brenda Akoda**, MRes Student (2024 - )\
 Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
-<br />
-
-Research Assistants
-------
-<img align="left" width="200" src="/images/Daniel.jpeg" style="margin-right: 15px" /> 
-
-**Daniel Donnelly**, Research Assistant (2025 - )\
-Prior to joining the lab, Daniel completed an MRes in Artificial Intelligence and Machine Learning at Imperial College London. He also holds an MSc in Data Science and Artificial Intelligence from Queen Mary University of London and a BSc in Mathematics from Cardiff University. After completing his undergraduate studies, Daniel spent a few years working in the asset management industry. His current research focuses on applying Gaussian splatting techniques to MRI volume reconstruction.  <br />
 <br />
 
 Co-supervised PhD Students
@@ -64,7 +70,7 @@ Emily is a PhD student whose current research is focusing on traumatic brain inj
 Emily is supervised by Dr Mazdak Ghajari at [Human Experience, Analysis and Design (HEAD) Lab](https://www.imperial.ac.uk/human-experience-analysis-design/) at Dyson School of Design Engineering, and co-supervised by Dr Qin Chen at Electrical and Electronic Engineering, Imperial College. Her PhD study is funded by [Sports and Wellbeing Analytics (SWA)](https://swa.one/), a progressive player in the field of wearable technology.  <br />
 <br /><br /> <br /> 
 
-<img align="left" width="200" src="/images/Yuyang.jpg" style="margin-right: 15px" /> 
+<!-- <img align="left" width="200" src="/images/Yuyang.jpg" style="margin-right: 15px" /> 
 
 **Yuyang Xue**, PhD Student (2022 - )\
 Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also co-supervised by Prof. Sotirios Tsaftaris. His main research interests are Generative Models and Medical Imaging in Deep Learning. He received his MSc degree in Computer Science from the University of Southampton and Bachelor's degree in computer science from Fuzhou University, China. <br />
@@ -74,10 +80,21 @@ Yuyang Xue is currently a PhD student at the University of Edinburgh. He is also
 
 **Hollan Haule**, PhD Student (2021 - )\
 Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr Javier Escudero Rodriguez, Dr Chen Qin and Dr Milly Lo. He received a BSc in Computer Engineering and Information Technology, October 2011, at the University of Dar es Salaam, Tanzania and an MSc degree in Artificial Intelligence, November 2017, at the University of Edinburgh, UK. His research focus is on biomedical time-series data analysis using machine learning. <br />
-<br /><br /> <br />  <br /> 
+<br /><br /> <br />  <br />  -->
 
 Alumni
 ------
+<img align="left" width="200" src="/images/TFletcher.jpeg" style="margin-right: 15px" /> 
+**Dr Thomas Fletcher**, Postdoctoral Researcher (2024 - 2025)\
+Prior to joining the group, Tom was previously a postdoctoral researcher at King's College London from 2020-2024. He worked on using machine learning for reconstruction of highly undersampled cardiac MRI. Tom obtained his PhD in Astrophysics from UCL in 2020, and received an MSc in Astrophysics and MSci in Physics from UCL and Imperial respectively. He has also worked as a Research Scientist at the National Physical Laboratory. Tom's research interests include machine learning for inverse problems, motion correction and highly undersampled reconstruction in MRI. He will be working on motion-robust and efficient fMRI.<br />
+<br />
+
+<img align="left" width="200" src="/images/Daniel.jpeg" style="margin-right: 15px" /> 
+
+**Daniel Donnelly**, Research Assistant (2025 - 2025)\
+Prior to joining the lab, Daniel completed an MRes in Artificial Intelligence and Machine Learning at Imperial College London. He also holds an MSc in Data Science and Artificial Intelligence from Queen Mary University of London and a BSc in Mathematics from Cardiff University. After completing his undergraduate studies, Daniel spent a few years working in the asset management industry. His current research focuses on applying Gaussian splatting techniques to MRI volume reconstruction.  <br />
+<br />
+
 <img align="left" width="200" src="/images/AnuragM.jpg" style="margin-right: 15px" /> 
 
 **Anurag Malyala**, MRes Student (2023 - 2024)\
