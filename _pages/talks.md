@@ -4,10 +4,10 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-- **Artificial Intelligence Meets Medical Imaging: From Signals to Clinically Information**\
+- **Advances of AI in Medical Imaging: From Signals to Clinically Information**\
    at LAI4BM: International Workshop on Large AI Models for Biomedicine, Hong Kong, China, July 2025
 
-- **Advances of AI in Medical Imaging: From Signals to Clinically Information**\
+- **Artificial Intelligence Meets Medical Imaging: From Signals to Clinically Information**\
    at Trustworthy AI for Digital Health Summer School, Reading, UK, July 2025
 
 - **AI-Driven CMR**\
