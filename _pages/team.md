@@ -35,12 +35,6 @@ Yinsong Wang received his MSc degree in Signal Processing and Communications fro
 Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
 <br /><br /> <br /> 
 
-<img align="left" width="200" src="/images/Siyi.jpg" style="margin-right: 15px" /> 
-
-**[Siyi Du](https://siyi-wind.github.io/)**, PhD Student (2023 - )\
-Siyi Du received her M.A.Sc. degree in Electrical and Computer Engineering from the University of British Columbia at 2023. She obained her B.E. degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. Her main research interest is using novel deep learning methodologies to improve biomedical imaging. <br />
-<br /><br /> <br /> 
-
 <img align="left" width="200" src="/images/Justin.PNG" style="margin-right: 15px" /> 
 
 **Justin Wang**, PhD Student (2025 - )\
