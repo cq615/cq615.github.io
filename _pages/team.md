@@ -59,7 +59,7 @@ Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London
 
 **Feiyang Wang**, MRes Student (2025 - )\
 Feiyang Wang received his B.E. degree from Central South University in 2025. His research focuses on unsupervised dynamic MRI reconstruction, with particular interest in flow matching methods and Bayesian inference. Outside of research, he enjoys anime and billiards.  <br />
-<br /><br /> <br /> <br /> 
+<br /><br /> <br /> <br /> <br /> 
 
 Co-supervised PhD Students
 ------
