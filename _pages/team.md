@@ -55,6 +55,12 @@ MRes Students
 Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
 <br />
 
+<img align="left" width="200" src="/images/wfy.jpg" style="margin-right: 15px" /> 
+
+**Feiyang Wang**, MRes Student (2025 - )\
+Feiyang Wang received his B.E. degree from Central South University in 2025. His research focuses on unsupervised dynamic MRI reconstruction, with particular interest in flow matching methods and Bayesian inference. Outside of research, he enjoys anime and billiards.  <br />
+<br />
+
 Co-supervised PhD Students
 ------
 <img align="left" width="200" src="/images/Emily.jpg" style="margin-right: 15px" /> 
