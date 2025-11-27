@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-PhD studentship in Multimodal Representation Learning in Biological Data
+PhD studentship in Multimodal Representation Learning in Biological Data (Closed)
 ------
 Applications are invited for a PhD studentship in the field of Multimodal Representation Learning in Biological Data, which will be jointly hosted by Department of Electrical and Electronic Engineering and the College’s new I-X initiative. Home and Overseas applicants are eligible for this studentship. It is especially targeted at PhD applicants with an interest in artificial intelligence and medicine. Prospective students will also join the Biomedical Image Analysis Group. 
 
