@@ -47,6 +47,13 @@ Justin Wang received his MPhil degree in Advanced Computer Science from the Univ
 Yirui Chen received his M.Eng. degree in Electronic Information Engineering from Shanghai Jiao Tong University in 2025, and his B.Eng. degree in Automation from Northwestern Polytechnical University in 2022. His research focuses on multimodal representation learning. He aims to develop robust AI models for integrating molecular and morphological information in high-content imaging, with applications to phenotypic drug discovery and biomedical data analysis. <br />
 <br /><br /> <br /> 
 
+<img align="left" width="200" src="/images/Jingxuan.png" style="margin-right: 15px" /> 
+
+**Jingxuan Kang, PhD Student (2026 - )\
+Jingxuan Kang is a PhD student focusing on machine learning for medical imaging. His research centers on multimodal representation learning, with particular interest in cross-modal alignment and model robustness. He aims to develop reliable learning methods for biomedical applications. <br />
+<br /><br /> <br /> 
+
+
 MRes Students
 ------
 <img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
