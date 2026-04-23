@@ -49,7 +49,7 @@ Yirui Chen received his M.Eng. degree in Electronic Information Engineering from
 
 <img align="left" width="200" src="/images/Jingxuan.png" style="margin-right: 15px" /> 
 
-**Jingxuan Kang, PhD Student (2026 - )\
+**Jingxuan Kang**, PhD Student (2026 - )\
 Jingxuan Kang is a PhD student focusing on machine learning for medical imaging. His research centers on multimodal representation learning, with particular interest in cross-modal alignment and model robustness. He aims to develop reliable learning methods for biomedical applications. <br />
 <br /><br /> <br /> 
 
