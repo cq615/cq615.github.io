@@ -4,6 +4,15 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
+- **Beyond the scan: resilient multimodal AI for fusing imaging and patient data**\
+   at The Royal College of Radiologists 2nd Annual Global AI Conference, London, UK, June 2026
+
+- **Learning Across Modalities Within and Beyond Medical Imaging**\
+   at Munich Center for Machine Learning - Machine Learning Conference, London, UK, April 2026
+
+- **Foundational Medical AI Beyond Supervised Learning on Incomplete Imaging and Clinical Data**\
+   at IEEE ISBI workshop on Foundation AI Models, London, UK, April 2026
+  
 - **Advances of AI in Medical Imaging: From Signals to Clinically Information**\
    at LAI4BM: International Workshop on Large AI Models for Biomedicine, Hong Kong, China, July 2025
 
