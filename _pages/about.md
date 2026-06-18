@@ -22,10 +22,13 @@ Opening
 ------
 I am looking for highly motivated PhD students to work on machine learning for medical image computing at Imperial College London. Prospective students will have a good first degree in Computer Science, Electrical Engineering, Automation or other engineering-related disciplines. Please feel free to drop me an email if you are interested.
 
-\[Closed\] I am looking for a PhD student working on multimodal representation learning in biological data. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
+\[Open\] I am looking for a Research Associate/Assistant working on Trustworthy MRI. For details, please check the [Vacancies page](https://cq615.github.io/vacancies/).
 
 News
 ------
+\[06/2026\] One paper on [Multi-contrast MRI super-resolution and reconstruction](https://www.sciencedirect.com/science/article/pii/S0031320326011532?dgcid=coauthor) published at Patten Recognition\
+\[01/2026\] One paper on [Contrast-Agnostic Deformable Image Registration](https://ieeexplore.ieee.org/abstract/document/11345324) published at IEEE TMI\
+\[01/2026\] One paper on [Dynamic Modality Selection](https://arxiv.org/pdf/2601.22853) accepted at ICLR 2026\
 \[03/2025\] One paper on [Semi-supervised Tabular-Image Learning](https://openaccess.thecvf.com/content/CVPR2025/html/Du_STiL_Semi-supervised_Tabular-Image_Learning_for_Comprehensive_Task-Relevant_Information_Exploration_in_CVPR_2025_paper.html) accepted at CVPR 2025\
 \[02/2025\] One paper on [Unsupervised Accelerated MRI Reconstruction via Ground-truth-free Flow Matching](https://arxiv.org/abs/2502.17174) accepted at IPMI 2025\
 \[07/2024\] One paper on [tabular-image pretraining](https://arxiv.org/abs/2407.07582) accepted at ECCV 2024\
