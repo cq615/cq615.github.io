@@ -4,7 +4,7 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-- **Beyond the scan: resilient multimodal AI for fusing imaging and patient data**\
+- **Beyond the Scan: Resilient Multimodal AI for Fusing Imaging and Patient Data**\
    at The Royal College of Radiologists 2nd Annual Global AI Conference, London, UK, June 2026
 
 - **Learning Across Modalities Within and Beyond Medical Imaging**\
