@@ -45,7 +45,7 @@ Justin Wang received his MPhil degree in Advanced Computer Science from the Univ
 
 **Yirui Chen**, PhD Student (2025 - )\
 Yirui Chen received his M.Eng. degree in Electronic Information Engineering from Shanghai Jiao Tong University in 2025, and his B.Eng. degree in Automation from Northwestern Polytechnical University in 2022. His research focuses on multimodal representation learning. He aims to develop robust AI models for integrating molecular and morphological information in high-content imaging, with applications to phenotypic drug discovery and biomedical data analysis. <br />
-<br /><br /> <br /> 
+<br /><br /> <br /> <br />
 
 <img align="left" width="200" src="/images/Jingxuan.png" style="margin-right: 15px" /> 
 
