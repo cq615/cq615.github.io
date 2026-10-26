@@ -26,6 +26,7 @@ I am looking for highly motivated PhD students to work on machine learning for m
 
 News
 ------
+\[07/2026\] Dr Chen Qin is awarded the **President's Award for Excellence in Research** at Imperial College London.\
 \[06/2026\] One paper on [Multi-contrast MRI super-resolution and reconstruction](https://www.sciencedirect.com/science/article/pii/S0031320326011532?dgcid=coauthor) published at Patten Recognition\
 \[01/2026\] One paper on [Contrast-Agnostic Deformable Image Registration](https://ieeexplore.ieee.org/abstract/document/11345324) published at IEEE TMI\
 \[01/2026\] One paper on [Dynamic Modality Selection](https://arxiv.org/pdf/2601.22853) accepted at ICLR 2026\
