@@ -10,9 +10,9 @@ author_profile: true
 Post-docs
 ------
 
-<img align="left" width="200" src="/images/Xinzhe.jpg" style="margin-right: 15px" /> 
-**Dr Xinzhe Luo**, Postdoctoral Researcher (2024 - )\
-Xinzhe obtained his PhD degree in Statistics in 2024 and BSc degree in Mathematics in 2019 from Fudan University, respectively. During his PhD study, his research focused on multi-modal groupwise registration and combined computing of medical images using information theory and probabilistic generative modelling. His research interests include machine learning and Bayesian inference in medical image registration and MRI reconstruction. He will be working on trustworthy AI for MRI reconstruction. <br />
+<img align="left" width="200" src="/images/Qi Li.jpg" style="margin-right: 15px" /> 
+**Dr Qi Li**, Postdoctoral Researcher (2026 - )\
+Qi Li received her PhD in Medical Imaging from University College London. During her PhD, her research focused on trackerless 3D freehand ultrasound reconstruction and uncertainty modelling in medical image segmentation. Her research interests include trustworthy AI for medical imaging, probabilistic machine learning, and medical image reconstruction. <br />
 <br />
 
 PhD Students
@@ -54,19 +54,6 @@ Jingxuan Kang is a PhD student focusing on machine learning for medical imaging.
 <br /><br /> <br /> 
 
 
-MRes Students
-------
-<img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
-
-**Mary-Brenda Akoda**, MRes Student (2024 - )\
-Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
-<br />
-
-<img align="left" width="200" src="/images/wfy.jpg" style="margin-right: 15px" /> 
-
-**Feiyang Wang**, MRes Student (2025 - )\
-Feiyang Wang received his B.E. degree from Central South University in 2025. His research focuses on unsupervised dynamic MRI reconstruction, with particular interest in flow matching methods and Bayesian inference. Outside of research, he enjoys anime and billiards.  <br />
-<br /><br /> <br /> <br /> <br /> 
 
 Co-supervised PhD Students
 ------
@@ -91,10 +78,27 @@ Hollan Haule is a PhD student at The University of Edinburgh co-supervised by Dr
 
 Alumni
 ------
+<img align="left" width="200" src="/images/Xinzhe.jpg" style="margin-right: 15px" /> 
+**Dr Xinzhe Luo**, Postdoctoral Researcher (2024 - 2026)\
+Xinzhe obtained his PhD degree in Statistics in 2024 and BSc degree in Mathematics in 2019 from Fudan University, respectively. During his PhD study, his research focused on multi-modal groupwise registration and combined computing of medical images using information theory and probabilistic generative modelling. His research interests include machine learning and Bayesian inference in medical image registration and MRI reconstruction. He will be working on trustworthy AI for MRI reconstruction. <br />
+<br />
+
 <img align="left" width="200" src="/images/TFletcher.jpeg" style="margin-right: 15px" /> 
 **Dr Thomas Fletcher**, Postdoctoral Researcher (2024 - 2025)\
 Prior to joining the group, Tom was previously a postdoctoral researcher at King's College London from 2020-2024. He worked on using machine learning for reconstruction of highly undersampled cardiac MRI. Tom obtained his PhD in Astrophysics from UCL in 2020, and received an MSc in Astrophysics and MSci in Physics from UCL and Imperial respectively. He has also worked as a Research Scientist at the National Physical Laboratory. Tom's research interests include machine learning for inverse problems, motion correction and highly undersampled reconstruction in MRI. He will be working on motion-robust and efficient fMRI.<br />
 <br />
+
+<img align="left" width="200" src="/images/MB.png" style="margin-right: 15px" /> 
+
+**Mary-Brenda Akoda**, MRes Student (2024 - 2025)\
+Mary-Brenda Akoda is the 2024 Google DeepMind Scholar at Imperial College London, where she is conducting research on Deep Generative Models for MRI reconstruction. She graduated with first-class honours in Computer Science from Goldsmiths, University of London. Mary-Brenda is deeply passionate about leveraging AI to improve lives, with a keen focus on applying Generative AI to Healthcare. She is always eager to discuss translational research and collaborate on ground-breaking ideas that push the boundaries of AI in healthcare.  <br />
+<br />
+
+<img align="left" width="200" src="/images/wfy.jpg" style="margin-right: 15px" /> 
+
+**Feiyang Wang**, MRes Student (2025 - 2026)\
+Feiyang Wang received his B.E. degree from Central South University in 2025. His research focuses on unsupervised dynamic MRI reconstruction, with particular interest in flow matching methods and Bayesian inference. Outside of research, he enjoys anime and billiards.  <br />
+<br /><br /> <br /> <br /> <br /> 
 
 <img align="left" width="200" src="/images/Daniel.jpeg" style="margin-right: 15px" /> 
 
