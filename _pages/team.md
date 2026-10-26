@@ -13,7 +13,7 @@ Post-docs
 <img align="left" width="200" src="/images/Qi Li.jpg" style="margin-right: 15px" /> 
 **Dr Qi Li**, Postdoctoral Researcher (2026 - )\
 Qi Li received her PhD in Medical Imaging from University College London. During her PhD, her research focused on trackerless 3D freehand ultrasound reconstruction and uncertainty modelling in medical image segmentation. Her research interests include trustworthy AI for medical imaging, probabilistic machine learning, and medical image reconstruction. <br />
-<br />
+<br /><br /><br />
 
 PhD Students
 ------
