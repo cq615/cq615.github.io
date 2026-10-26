@@ -13,7 +13,7 @@ Post-docs
 <img align="left" width="200" src="/images/Qi Li.jpg" style="margin-right: 15px" /> 
 **Dr Qi Li**, Postdoctoral Researcher (2026 - )\
 Qi Li received her PhD in Medical Imaging from University College London. During her PhD, her research focused on trackerless 3D freehand ultrasound reconstruction and uncertainty modelling in medical image segmentation. Her research interests include trustworthy AI for medical imaging, probabilistic machine learning, and medical image reconstruction. <br />
-<br /><br /><br />
+<br /><br /><br /><br />
 
 PhD Students
 ------
@@ -45,7 +45,7 @@ Justin Wang received his MPhil degree in Advanced Computer Science from the Univ
 
 **Yirui Chen**, PhD Student (2025 - )\
 Yirui Chen received his M.Eng. degree in Electronic Information Engineering from Shanghai Jiao Tong University in 2025, and his B.Eng. degree in Automation from Northwestern Polytechnical University in 2022. His research focuses on multimodal representation learning. He aims to develop robust AI models for integrating molecular and morphological information in high-content imaging, with applications to phenotypic drug discovery and biomedical data analysis. <br />
-<br /><br /> <br /> <br />
+<br /><br /> <br /> <br /><br />
 
 <img align="left" width="200" src="/images/Jingxuan.png" style="margin-right: 15px" /> 
 
@@ -81,7 +81,7 @@ Alumni
 <img align="left" width="200" src="/images/Xinzhe.jpg" style="margin-right: 15px" /> 
 **Dr Xinzhe Luo**, Postdoctoral Researcher (2024 - 2026)\
 Xinzhe obtained his PhD degree in Statistics in 2024 and BSc degree in Mathematics in 2019 from Fudan University, respectively. During his PhD study, his research focused on multi-modal groupwise registration and combined computing of medical images using information theory and probabilistic generative modelling. His research interests include machine learning and Bayesian inference in medical image registration and MRI reconstruction. He will be working on trustworthy AI for MRI reconstruction. <br />
-<br />
+<br /><br /><br />
 
 <img align="left" width="200" src="/images/TFletcher.jpeg" style="margin-right: 15px" /> 
 **Dr Thomas Fletcher**, Postdoctoral Researcher (2024 - 2025)\
